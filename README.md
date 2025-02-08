@@ -41,7 +41,7 @@ With a **Diploma in Computer Engineering** from MSBTE and a **Bachelor’s in In
 
 ## **📬 Let's Connect!**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/jagruti-deore-a050321b2/
-💻 **GitHub:** [github.com/JagrutiDDeore](#)  
+💻 **GitHub:** https://github.com/JagrutiDDeore
 📧 **Email:** jagudeore3998@gmail.com  
 
 
